@@ -24,3 +24,5 @@ Supersonic
 
 Main branch commit 
 Feature conflict
+
+Fot tag only
